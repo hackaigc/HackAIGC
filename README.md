@@ -19,10 +19,10 @@ HackAIGC recognizes that imposing security restrictions on AI models can signifi
 
 HackAIGC believes in the value of a commercially oriented LLM that can operate without unnecessary limitations. The organization aims to empower users by offering a comprehensive chat experience free from the constraints typically associated with security concerns. By doing so, HackAIGC seeks to foster an environment where communication is powerful, liberating, safe, and secure.
 # Key Objectives:
-1.Stability and Unrestricted Use: Developing an LLM that maintains stability while allowing unrestricted expression.
-2.Security Without Compromise: Ensuring that removing restrictions does not compromise the security of the LLM.
-3.Empowerment Through Flexibility: Providing users with a flexible platform that can adapt to various communication needs.
-4.Enhanced User Experience: Delivering a chat experience that is both comprehensive and free from the usual constraints imposed on commercially oriented LLMs.
+1.Stability and Unrestricted Use: Developing an LLM that maintains stability while allowing unrestricted expression.  
+2.Security Without Compromise: Ensuring that removing restrictions does not compromise the security of the LLM.  
+3.Empowerment Through Flexibility: Providing users with a flexible platform that can adapt to various communication needs.  
+4.Enhanced User Experience: Delivering a chat experience that is both comprehensive and free from the usual constraints imposed on commercially oriented LLMs.  
 HackAIGC is committed to breaking free from the traditional limitations placed on language models, striving to create a tool that offers unprecedented communication experiences. By balancing freedom and security, HackAIGC aims to set a new standard in developing and utilizing commercially oriented LLMs.
 # Site
 ## Site:https://www.hackaigc.com/
